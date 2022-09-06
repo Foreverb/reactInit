@@ -1,4 +1,4 @@
-一个基于webpack + react + typescript的标准化前端应用。
+一个基于webpack + react + typescript的标准化前端应用。（https://mp.weixin.qq.com/s/4XxG4NB1dGnWiZdKxGsS5g）
 
 ## 前言
 
